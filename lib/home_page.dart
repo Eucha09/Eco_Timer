@@ -64,7 +64,7 @@ class _HomePageState extends State<HomePage> {
             return '$time';
           }
       ),*/
-          startAngle: 270,
+          startAngle: 0,
           angleRange: 360,
           size: 225.0,
         ),
