@@ -1,0 +1,13 @@
+com.example.example.app-core-1.6.0-0 /Users/jeong-euichan/.gradle/caches/transforms-3/3d943b8a8d6718874a3fad89ac634056/transformed/core-1.6.0/res
+com.example.example.app-jetified-window-1.0.0-beta04-1 /Users/jeong-euichan/.gradle/caches/transforms-3/3e94d6806eb4169e793b1c4cddcd808d/transformed/jetified-window-1.0.0-beta04/res
+com.example.example.app-jetified-annotation-experimental-1.1.0-2 /Users/jeong-euichan/.gradle/caches/transforms-3/ac057a03636e6585c83693bfe2e3e310/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.example.app-jetified-window-java-1.0.0-beta04-3 /Users/jeong-euichan/.gradle/caches/transforms-3/cd26984222cc0fa5df3c795677803a3d/transformed/jetified-window-java-1.0.0-beta04/res
+com.example.example.app-debug-4 /Users/jeong-euichan/Downloads/example/android/app/src/debug/res
+com.example.example.app-main-5 /Users/jeong-euichan/Downloads/example/android/app/src/main/res
+com.example.example.app-pngs-6 /Users/jeong-euichan/Downloads/example/build/app/generated/res/pngs/debug
+com.example.example.app-resValues-7 /Users/jeong-euichan/Downloads/example/build/app/generated/res/resValues/debug
+com.example.example.app-rs-8 /Users/jeong-euichan/Downloads/example/build/app/generated/res/rs/debug
+com.example.example.app-mergeDebugResources-9 /Users/jeong-euichan/Downloads/example/build/app/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.example.app-mergeDebugResources-10 /Users/jeong-euichan/Downloads/example/build/app/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.example.app-merged_res-11 /Users/jeong-euichan/Downloads/example/build/app/intermediates/merged_res/debug
+com.example.example.app-packaged_res-12 /Users/jeong-euichan/Downloads/example/build/flutter_native_splash/intermediates/packaged_res/debug

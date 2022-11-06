@@ -1,0 +1,4 @@
+#Sun Nov 06 15:19:25 KST 2022
+base.0=/Users/jeong-euichan/Downloads/example/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

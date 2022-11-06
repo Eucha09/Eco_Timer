@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.example.app-mergeDebugResources-9:/values-ar/values-ar.xml",
+            "map": [
+                {
+                    "source": "/Users/jeong-euichan/.gradle/caches/transforms-3/3d943b8a8d6718874a3fad89ac634056/transformed/core-1.6.0/res/values-ar/values-ar.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}

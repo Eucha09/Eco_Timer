@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.example.app-mergeDebugResources-9:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/jeong-euichan/Downloads/example/android/app/src/main/res/values-night/styles.xml",
+                    "from": {
+                        "startLines": "3,17",
+                        "startColumns": "4,4",
+                        "startOffsets": "172,1014",
+                        "endLines": "10,19",
+                        "endColumns": "12,12",
+                        "endOffsets": "672,1178"
+                    },
+                    "to": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,433",
+                        "endLines": "8,11",
+                        "endColumns": "12,12",
+                        "endOffsets": "428,597"
+                    }
+                }
+            ]
+        }
+    ]
+}
