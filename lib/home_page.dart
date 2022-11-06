@@ -65,7 +65,7 @@ class _HomePageState extends State<HomePage> {
           }
       ),*/
           startAngle: 270,
-          angleRange: 360,
+          angleRange: 180,
           size: 225.0,
         ),
         min: 0,
