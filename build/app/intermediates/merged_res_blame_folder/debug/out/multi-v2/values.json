@@ -4,7 +4,7 @@
             "outputFile": "com.example.example.app-mergeDebugResources-9:/values/values.xml",
             "map": [
                 {
-                    "source": "/Users/jeong-euichan/Downloads/example/android/app/src/main/res/values/styles.xml",
+                    "source": "/Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/main/res/values/styles.xml",
                     "from": {
                         "startLines": "3,17",
                         "startColumns": "4,4",

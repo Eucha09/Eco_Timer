@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 application
-INJECTED from /Users/jeong-euichan/Downloads/example/android/app/src/main/AndroidManifest.xml:2:4-32:19
+INJECTED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/main/AndroidManifest.xml:2:4-32:19
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/jeong-euichan/.gradle/caches/transforms-3/3e94d6806eb4169e793b1c4cddcd808d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/jeong-euichan/.gradle/caches/transforms-3/3e94d6806eb4169e793b1c4cddcd808d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:24:5-31:19
 MERGED from [androidx.core:core:1.6.0] /Users/jeong-euichan/.gradle/caches/transforms-3/3d943b8a8d6718874a3fad89ac634056/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
@@ -10,14 +10,14 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jeon
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.6.0] /Users/jeong-euichan/.gradle/caches/transforms-3/3d943b8a8d6718874a3fad89ac634056/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
 	android:name
-		INJECTED from /Users/jeong-euichan/Downloads/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/main/AndroidManifest.xml
 manifest
-ADDED from /Users/jeong-euichan/Downloads/example/android/app/src/main/AndroidManifest.xml:1:1-33:12
-INJECTED from /Users/jeong-euichan/Downloads/example/android/app/src/main/AndroidManifest.xml:1:1-33:12
-INJECTED from /Users/jeong-euichan/Downloads/example/android/app/src/main/AndroidManifest.xml:1:1-33:12
-INJECTED from /Users/jeong-euichan/Downloads/example/android/app/src/main/AndroidManifest.xml:1:1-33:12
-MERGED from /Users/jeong-euichan/Downloads/example/android/app/src/main/AndroidManifest.xml:1:1-33:12
-MERGED from [:flutter_native_splash] /Users/jeong-euichan/Downloads/example/build/flutter_native_splash/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
+ADDED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:flutter_native_splash] /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/build/flutter_native_splash/intermediates/merged_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/jeong-euichan/.gradle/caches/transforms-3/cd26984222cc0fa5df3c795677803a3d/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:17:1-23:12
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/jeong-euichan/.gradle/caches/transforms-3/3e94d6806eb4169e793b1c4cddcd808d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:17:1-33:12
 MERGED from [androidx.fragment:fragment:1.1.0] /Users/jeong-euichan/.gradle/caches/transforms-3/31829f9bb8352b6d78cffdfbb33431cd/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
@@ -35,29 +35,29 @@ MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/jeong-euichan/.gradle
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/jeong-euichan/.gradle/caches/transforms-3/24f3d5d957224a6f92ef79bc4f2f9acb/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jeong-euichan/.gradle/caches/transforms-3/1a06b8f896e9276512a7cd8a49c32346/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/jeong-euichan/.gradle/caches/transforms-3/ac057a03636e6585c83693bfe2e3e310/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
-INJECTED from /Users/jeong-euichan/Downloads/example/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/jeong-euichan/Downloads/example/android/app/src/debug/AndroidManifest.xml:1:1-7:12
-INJECTED from /Users/jeong-euichan/Downloads/example/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/debug/AndroidManifest.xml:1:1-7:12
+INJECTED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/debug/AndroidManifest.xml:1:1-7:12
 	package
-		INJECTED from /Users/jeong-euichan/Downloads/example/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/jeong-euichan/Downloads/example/android/app/src/main/AndroidManifest.xml:1:1-33:12
-		INJECTED from /Users/jeong-euichan/Downloads/example/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/debug/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/jeong-euichan/Downloads/example/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/jeong-euichan/Downloads/example/android/app/src/main/AndroidManifest.xml:1:1-33:12
-		INJECTED from /Users/jeong-euichan/Downloads/example/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/debug/AndroidManifest.xml
 	android:versionCode
-		INJECTED from /Users/jeong-euichan/Downloads/example/android/app/src/main/AndroidManifest.xml
-		ADDED from /Users/jeong-euichan/Downloads/example/android/app/src/main/AndroidManifest.xml:1:1-33:12
-		INJECTED from /Users/jeong-euichan/Downloads/example/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/debug/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/jeong-euichan/Downloads/example/android/app/src/main/AndroidManifest.xml:1:11-69
+		ADDED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/main/AndroidManifest.xml:1:11-69
 uses-sdk
-INJECTED from /Users/jeong-euichan/Downloads/example/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/jeong-euichan/Downloads/example/android/app/src/main/AndroidManifest.xml
-INJECTED from /Users/jeong-euichan/Downloads/example/android/app/src/main/AndroidManifest.xml
-MERGED from [:flutter_native_splash] /Users/jeong-euichan/Downloads/example/build/flutter_native_splash/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
-MERGED from [:flutter_native_splash] /Users/jeong-euichan/Downloads/example/build/flutter_native_splash/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/main/AndroidManifest.xml
+MERGED from [:flutter_native_splash] /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/build/flutter_native_splash/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:flutter_native_splash] /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/build/flutter_native_splash/intermediates/merged_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/jeong-euichan/.gradle/caches/transforms-3/cd26984222cc0fa5df3c795677803a3d/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window-java:1.0.0-beta04] /Users/jeong-euichan/.gradle/caches/transforms-3/cd26984222cc0fa5df3c795677803a3d/transformed/jetified-window-java-1.0.0-beta04/AndroidManifest.xml:19:5-21:41
 MERGED from [androidx.window:window:1.0.0-beta04] /Users/jeong-euichan/.gradle/caches/transforms-3/3e94d6806eb4169e793b1c4cddcd808d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:20:5-22:41
@@ -92,18 +92,18 @@ MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jeong-euichan/
 MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/jeong-euichan/.gradle/caches/transforms-3/1a06b8f896e9276512a7cd8a49c32346/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/jeong-euichan/.gradle/caches/transforms-3/ac057a03636e6585c83693bfe2e3e310/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
 MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/jeong-euichan/.gradle/caches/transforms-3/ac057a03636e6585c83693bfe2e3e310/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
-INJECTED from /Users/jeong-euichan/Downloads/example/android/app/src/debug/AndroidManifest.xml
-INJECTED from /Users/jeong-euichan/Downloads/example/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/debug/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/jeong-euichan/Downloads/example/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jeong-euichan/Downloads/example/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/debug/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/jeong-euichan/Downloads/example/android/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/jeong-euichan/Downloads/example/android/app/src/debug/AndroidManifest.xml
+		INJECTED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/debug/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from /Users/jeong-euichan/Downloads/example/android/app/src/debug/AndroidManifest.xml:6:5-66
+ADDED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/debug/AndroidManifest.xml:6:5-66
 	android:name
-		ADDED from /Users/jeong-euichan/Downloads/example/android/app/src/debug/AndroidManifest.xml:6:22-64
+		ADDED from /Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/android/app/src/debug/AndroidManifest.xml:6:22-64
 uses-library#androidx.window.extensions
 ADDED from [androidx.window:window:1.0.0-beta04] /Users/jeong-euichan/.gradle/caches/transforms-3/3e94d6806eb4169e793b1c4cddcd808d/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
 	android:required
