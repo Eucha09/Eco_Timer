@@ -69,7 +69,7 @@ class _HomePageState extends State<HomePage> {
           size: 225.0,
         ),
         min: 0,
-        max: 60,
+        max: 360,
         initialValue: 0,
         innerWidget: (double value) {
           return Center(
