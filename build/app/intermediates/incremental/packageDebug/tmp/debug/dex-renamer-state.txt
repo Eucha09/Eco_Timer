@@ -1,4 +1,4 @@
-#Sun Nov 06 20:58:27 KST 2022
+#Wed Nov 09 09:31:58 KST 2022
 base.0=/Users/jeong-euichan/Desktop/define_chan/github/Eco_Timer_clone/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
 renamed.0=classes.dex
 path.0=classes.dex
